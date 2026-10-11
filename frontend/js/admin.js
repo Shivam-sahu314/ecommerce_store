@@ -1,7 +1,9 @@
 
-const PRODUCT_API = "https://codealpha-ecommerce-backend-lky8.onrender.com/api/products";
-const ORDER_API = "https://codealpha-ecommerce-backend-lky8.onrender.com/api/orders/admin/all";
-const ORDER_STATUS_API = "https://codealpha-ecommerce-backend-lky8.onrender.com/api/orders/admin";
+
+const PRODUCT_API = "http://localhost:3000/api/products";
+const ORDER_API = "http://localhost:3000/api/orders/admin/all";
+const ORDER_STATUS_API = "http://localhost:3000/api/orders/admin";
+
 
 const token = localStorage.getItem("token");
 

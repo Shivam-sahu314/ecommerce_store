@@ -1,6 +1,5 @@
 
-const API_URL = "https://codealpha-ecommerce-backend-lky8.onrender.com/api/orders/my-orders";
-
+const API_URL = "http://localhost:3000/api/orders/my-orders";
 function escapeHTML(value) {
     return String(value ?? "").replace(/[&<>"']/g, char => ({
         "&": "&amp;",

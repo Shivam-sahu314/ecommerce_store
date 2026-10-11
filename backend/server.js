@@ -35,7 +35,7 @@ mongoose
 
 app.get("/", (req, res) => {
     res.json({
-        message: "Rohit Milk Store Backend is running"
+        message: "e-commerce store Backend is running"
     });
 });
 

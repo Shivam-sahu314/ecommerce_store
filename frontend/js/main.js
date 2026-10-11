@@ -1,6 +1,5 @@
 
-const API_URL = "https://codealpha-ecommerce-backend-lky8.onrender.com/api/products";
-// =====================================
+const API_URL = "http://localhost:3000/api/products";// =====================================
 // VARIABLES
 // =====================================
 
